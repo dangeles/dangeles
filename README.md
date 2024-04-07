@@ -11,7 +11,7 @@ My name is David Angeles Albores (for science purposes, David Angeles-Albores), 
 - 🦭 My spirit animal is the seal. Floppy on land, powerful in the sea... and probably would get eaten by an orca 🤔
 
 ## Some important websites for me:
-My [Personal Website](https://dangeles.github.io/)
-My [Google Scholar Profile](https://scholar.google.es/citations?hl=en&pli=1&user=03C2DtQAAAAJ)
-Find my [CV](https://dangeles.github.io/AngelesAlboresDavid_cv.pdf)
+- My [Personal Website](https://dangeles.github.io/)
+- My [Google Scholar Profile](https://scholar.google.es/citations?hl=en&pli=1&user=03C2DtQAAAAJ)
+- Find my [CV](https://dangeles.github.io/AngelesAlboresDavid_cv.pdf)
 
