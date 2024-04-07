@@ -17,7 +17,7 @@ I am principally interested in roles where I can bridge computation and biology.
 As a result, I tend to carve out a niche as a science translater in teams where you may already have two fantastic experts who really want to work with each other but who are struggling to collaborate because they do not speak the same scientific languages. Some of my past achievements as a science translater have included:
 
 - Development of a pig kidney that was transplanted into a patient with end-stage renal disease! Featured in the [New York Times](https://www.nytimes.com/2024/03/21/health/pig-kidney-organ-transplant.html)
-- Characterization of the effects that truly small levels of pheromone signaling have on egg-laying nematodes
+- Characterization of the effects that minute pheromone exposures have on egg-laying nematodes
 - Development of computational methods for the analysis of microbial RNA samples
 - Most recently, lots of work developing AI frameworks to carry out new experiments, and conceptual/computational frameworks to interpret the output results
 - Computational studies of the integrated stress response
