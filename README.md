@@ -14,7 +14,7 @@ My name is David Angeles Albores (for science purposes, _David Angeles-Albores_)
 
 I am principally interested in roles where I can bridge computation and biology. I live in the middle of these two fields. I love math, and have significant background in AI/ML, but you can definitely find better AI/ML specialists. I have a pretty deep knowledge of bioinformatics and genomics, with a specific focus on transcriptomics, but I am not the right person to build many of the tools I use daily (all hail Heng Li and Rob Patro and so many others in the open-source compbio community!). And I have an entire PhD's worth of experience with CRISPR, genetic crosses, PCRs, RNA library preps, hypoxia, you name it.
 
-As a result, I tend to carve out a niche as a science translater in teams where you may already have two fantastic experts who really want to work with each other but who are struggling to collaborate because they do not speak the same scientific languages. Some of my past achievements as a science translater have included:
+As a result, I tend to carve out a niche as a science translator in teams where you may already have two fantastic experts who really want to work with each other but who are struggling to collaborate because they do not speak the same scientific languages. Some of my past achievements as a science translator have included:
 
 - Development of a pig kidney that was transplanted into a patient with end-stage renal disease! Featured in the [New York Times](https://www.nytimes.com/2024/03/21/health/pig-kidney-organ-transplant.html)
 - Characterization of the effects that minute pheromone exposures have on egg-laying nematodes
