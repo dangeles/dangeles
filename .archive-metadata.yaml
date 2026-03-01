@@ -1,0 +1,8 @@
+version: "1.0"
+project_type: "code"
+naming_conventions: snake_case
+structure: flat
+files:
+  - README.md
+  - LICENSE
+generated_timestamp: "2026-03-01"
